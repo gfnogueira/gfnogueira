@@ -23,14 +23,14 @@
 ---
 
 <!-- START_STATUS -->
-## ☁️ Brew of the Day
+## ☁️ Today's Status
 
-> 💬 "Warming up the logs and brewing coffee..."  
-> 💵 1 USD = R$ ...  
-> 💶 1 EUR = R$ ...  
-> ₿ 1 BTC = R$ ...  
-> 🌦️ Florianópolis: ...  
-> 🛠️ Status: ...
+> 💬 "Stay calm and grep logs."  
+> 💵 1 USD = R$ 5.70  
+> 💶 1 EUR = R$ 6.16  
+> ₿ 1 BTC = R$ 475565.00  
+> 🌦️ Florianópolis: 24.9ºC, Wind: 11.6km/h  
+> 🛠️ Status: Coffee is compiling... ☕
 <!-- END_STATUS -->
 
 ---
