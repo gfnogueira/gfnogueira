@@ -4,14 +4,13 @@
 
 
 ```
-        ███╗   ██╗ ██████╗  ██████╗ ██╗   ██╗███████╗██╗██████╗  █████╗ 
-        ████╗  ██║██╔═══██╗██╔════╝ ██║   ██║██╔════╝██║██╔══██╗██╔══██╗
-        ██╔██╗ ██║██║   ██║██║  ███╗██║   ██║█████╗  ██║██████╔╝███████║
-        ██║╚██╗██║██║   ██║██║   ██║██║   ██║██╔══╝  ██║██╔══██╗██╔══██║
-        ██║ ╚████║╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║██║  ██║██║  ██║
-        ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-
-                      NOGUEIRA | DevOps ☁️ + Coffee + Beer
+███╗   ██╗ ██████╗  ██████╗ ██╗   ██╗███████╗██╗██████╗  █████╗ 
+████╗  ██║██╔═══██╗██╔════╝ ██║   ██║██╔════╝██║██╔══██╗██╔══██╗
+██╔██╗ ██║██║   ██║██║  ███╗██║   ██║█████╗  ██║██████╔╝███████║
+██║╚██╗██║██║   ██║██║   ██║██║   ██║██╔══╝  ██║██╔══██╗██╔══██║
+██║ ╚████║╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║██║  ██║██║  ██║
+╚═╝  ╚═══╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═
+              NOGUEIRA | DevOps ☁️ + Coffee + Beer
 ```
 
 # Hey, I'm Nogueira! 👋
@@ -26,7 +25,7 @@
 <!-- START_STATUS -->
 ## ☁️ Brew of the Day
 
-> 💬 "Initial status..."  
+> 💬 "Warming up the logs and brewing coffee..."  
 > 💵 1 USD = R$ ...  
 > 💶 1 EUR = R$ ...  
 > ₿ 1 BTC = R$ ...  
@@ -49,8 +48,8 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 ### ☁️ Cloud & IaC
 
-[![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoft-azure)](https://azure.microsoft.com)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonwebservices)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=icloud)](https://azure.microsoft.com)
 
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)](https://www.terraform.io)
 [![Pulumi](https://img.shields.io/badge/IaC-Pulumi-F6C915?logo=pulumi)](https://www.pulumi.com)
@@ -84,10 +83,11 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 [![Datadog](https://img.shields.io/badge/Monitoring-Datadog-purple?logo=datadog)](https://www.datadoghq.com)
 [![Splunk](https://img.shields.io/badge/Monitoring-Splunk-000000?logo=splunk)](https://www.splunk.com)
-[![Splunk](https://img.shields.io/badge/Monitoring-NewRelic-green?logo=newrelic)](https://www.splunk.com)
+[![New Relic](https://img.shields.io/badge/Monitoring-NewRelic-008C99?logo=newrelic)](https://newrelic.com)
 
 [![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana)](https://grafana.com)
 [![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C?logo=prometheus)](https://prometheus.io)
+[![Zabbix](https://img.shields.io/badge/Monitoring-Zabbix-DC382D?logo=zabbix)](https://www.zabbix.com)
 
 [![ELK Stack](https://img.shields.io/badge/Logs-ELK-005571?logo=elastic)](https://www.elastic.co/what-is/elk-stack)
 [![OpenTelemetry](https://img.shields.io/badge/Observability-OpenTelemetry-7F52FF?logo=opentelemetry)](https://opentelemetry.io)
@@ -103,35 +103,45 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 [![Wireshark](https://img.shields.io/badge/Networking-Wireshark-1679A7?logo=wireshark)](https://www.wireshark.org)
 [![OpenVPN](https://img.shields.io/badge/VPN-OpenVPN-FE7E00?logo=openvpn)](https://openvpn.net)
 
-[![Asterisk](https://img.shields.io/badge/VoIP-Asterisk-yellow)](https://www.asterisk.org/)
-[![FreeSWITCH](https://img.shields.io/badge/VoIP-FreeSWITCH-054F9A?logo=data:image/svg+xml;base64,)](https://freeswitch.com)
+[![Asterisk](https://img.shields.io/badge/VoIP-Asterisk-orange?logo=asterisk)](https://www.asterisk.org/)
+[![FreeSWITCH](https://img.shields.io/badge/VoIP-FreeSWITCH-054F9A?logo=wikiquote)](https://freeswitch.com)
 
 ---
+
+### 🔁 CI/CD Tools
+
+[![Jenkins](https://img.shields.io/badge/CI_Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-EB4C60?logo=argo)](https://argo-cd.readthedocs.io)
+
+[![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions)](https://github.com/features/actions)
+[![GitLab Runners](https://img.shields.io/badge/CI-GitLab_Runner-FC6D26?logo=gitlab)](https://docs.gitlab.com/runner/)
+[![Bitbucket Pipelines](https://img.shields.io/badge/CI-Bitbucket_Runners-0052CC?logo=bitbucket)](https://bitbucket.org/product/features/pipelines)
+
+[![Atlantis](https://img.shields.io/badge/IaC-Atlantis-6baffe?logo=terraform)](https://www.runatlantis.io)
+[![Artifactory](https://img.shields.io/badge/Packages-Artifactory-528B8B?logo=jfrog)](https://jfrog.com/artifactory)
+
+---
+
+### 🧠 Languages & Scripting
+
+[![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python)](https://www.python.org)
+[![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go)](https://go.dev)
 
 ### ☕ Personal Fuel
 
 
 [![Coffee](https://img.shields.io/badge/Fuel-Coffee-brown?logo=buymeacoffee)](https://buymeacoffee.com)
 [![Music](https://img.shields.io/badge/Music-LoFi_Beats-5F9EA0?logo=spotify)](https://open.spotify.com)
-[![Focus Mode](https://img.shields.io/badge/Focus-Terminal_Mode-black)]()
+[![Focus Mode](https://img.shields.io/badge/Focus-Terminal_Mode-black?logo=gnometerminal)]()
 [![Energy](https://img.shields.io/badge/Energy-99%25-green)]()
 
-[![Mood](https://img.shields.io/badge/Mood-Caffeinated-yellow)]()
-[![SSH](https://img.shields.io/badge/SSH-Connected-blue)]()
+[![SSH](https://img.shields.io/badge/SSH-Connected-blue?logo=monkeytie)]()
+[![Mood](https://img.shields.io/badge/Mood-Caffeinated-yellow?logo=buymeacoffee)]()
 [![Infra](https://img.shields.io/badge/Terraform--Apply-Completed-success)]()
 
 [![Coffee Level](https://img.shields.io/badge/Coffee_Level-Refilled-success)]()
 [![Status](https://img.shields.io/badge/Dev_Mode-ON-blueviolet)]()
-
-
-
-
-- **Cloud**: AWS, Azure  
-- **IaC & Automation**: Terraform, Ansible, Jenkins, ArgoCD  
-- **Containers**: Docker, Kubernetes  
-- **Monitoring**: Prometheus, Grafana, Datadog, ELK  
-- **Languages**: Python, Bash, a bit of Go (still learning)  
-- **Networks & Security**: Fortinet, Palo Alto, VoIP, Asterisk  
 
 ---
 
@@ -156,7 +166,8 @@ $ cat laws_of_infra.txt
 
 🔌 Networking & VoIP → 🛠️ Infra as Code → ☁️ Cloud Native → 🧠 SRE/DevOps
 
-Progress: [■■■■■□□□□□] 50%
+Progress: [■■■■■■■□□□] 70%  
+*Updates available. Please brew more coffee.*
 
 ---
 
