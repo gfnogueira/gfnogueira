@@ -52,6 +52,7 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 [![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=icloud)](https://azure.microsoft.com)
 
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)](https://www.terraform.io)
+[![OpenTofu](https://img.shields.io/badge/IaC-OpenTofu-215732?logo=opentofu)](https://opentofu.org)
 [![Pulumi](https://img.shields.io/badge/IaC-Pulumi-F6C915?logo=pulumi)](https://www.pulumi.com)
 
 [![Ansible](https://img.shields.io/badge/Automation-Ansible-black?logo=ansible)](https://www.ansible.com)
@@ -60,20 +61,25 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 ### 🐧 Linux Distros
 
-[![Red Hat](https://img.shields.io/badge/Linux-Red_Hat-EE0000?logo=redhat)](https://www.redhat.com)
-[![openSUSE](https://img.shields.io/badge/Linux-openSUSE-73BA25?logo=opensuse)](https://www.opensuse.org)
-[![Debian](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian)](https://www.debian.org)
+[![Red Hat](https://img.shields.io/badge/OS-Red_Hat-EE0000?logo=redhat)](https://www.redhat.com)
+[![openSUSE](https://img.shields.io/badge/OS-openSUSE-73BA25?logo=opensuse)](https://www.opensuse.org)
+[![Debian](https://img.shields.io/badge/OS-Debian-A81D33?logo=debian)](https://www.debian.org)
+[![Slackware](https://img.shields.io/badge/OS-Slackware-blue?logo=slackware)](http://www.slackware.com)
 
-[![OpenWRT](https://img.shields.io/badge/Linux-OpenWRT-333333?logo=openwrt)](https://openwrt.org)
+[![FreeBSD](https://img.shields.io/badge/OS-FreeBSD-red?logo=freebsd)](https://www.freebsd.org)
+
+[![OpenWRT](https://img.shields.io/badge/Router-OpenWRT-333333?logo=openwrt)](https://openwrt.org)
+[![VyOS](https://img.shields.io/badge/Router-VyOS-orange?logo=linux)](https://vyos.io)
+
 
 ---
 
 ### ☸️ Containers & Orchestration
 
-[![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker)](https://www.docker.com)
 [![Docker Swarm](https://img.shields.io/badge/Orchestration-Docker_Swarm-2496ED?logo=docker)](https://docs.docker.com/engine/swarm/)
 [![Kubernetes](https://img.shields.io/badge/Orchestration-K8s-326CE5?logo=kubernetes)](https://kubernetes.io)
 
+[![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker)](https://www.docker.com)
 [![Podman](https://img.shields.io/badge/Containers-Podman-892CA0?logo=podman)](https://podman.io)
 [![Containerd](https://img.shields.io/badge/Runtime-containerd-263238?logo=containerd)](https://containerd.io)
 
@@ -98,7 +104,9 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 [![Palo Alto](https://img.shields.io/badge/Security-Palo_Alto_Networks-ED1C24?logo=paloaltonetworks)](https://www.paloaltonetworks.com)
 [![Fortigate](https://img.shields.io/badge/Security-Fortinet-EE1D23?logo=fortinet)](https://www.fortinet.com)
+
 [![MikroTik](https://img.shields.io/badge/Networking-MikroTik-D6001C?logo=mikrotik)](https://mikrotik.com)
+[![pfSense](https://img.shields.io/badge/Firewall-pfSense-darkblue?logo=pfsense)](https://www.pfsense.org)
 
 [![Wireshark](https://img.shields.io/badge/Networking-Wireshark-1679A7?logo=wireshark)](https://www.wireshark.org)
 [![OpenVPN](https://img.shields.io/badge/VPN-OpenVPN-FE7E00?logo=openvpn)](https://openvpn.net)
@@ -127,6 +135,8 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 [![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python)](https://www.python.org)
 [![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go)](https://go.dev)
+
+---
 
 ### ☕ Personal Fuel
 
