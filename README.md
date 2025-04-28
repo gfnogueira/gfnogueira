@@ -27,10 +27,10 @@
 
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.69  
-> 💶 1 EUR = R$ 6.49  
-> ₿ 1 BTC = R$ 537972.00  
-> 🌦️ Florianópolis: 22.0ºC, Wind: 3.8km/h  
-> 🛠️ Status: Running `kubectl describe mystery` 🧙‍♂️
+> 💶 1 EUR = R$ 6.45  
+> ₿ 1 BTC = R$ 545282.00  
+> 🌦️ Florianópolis: 21.0ºC, Wind: 23.8km/h  
+> 🛠️ Status: Too early for this incident… where's my coffee? 😵☕
 <!-- END_STATUS -->
 
 ---
