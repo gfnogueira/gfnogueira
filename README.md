@@ -27,10 +27,10 @@
 
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.66  
-> 💶 1 EUR = R$ 6.31  
-> ₿ 1 BTC = R$ 593055.00  
-> 🌦️ Florianópolis: 21.5ºC, Wind: 7.6km/h  
-> 🛠️ Status: My CVE backlog has a CVE 💥📄
+> 💶 1 EUR = R$ 6.38  
+> ₿ 1 BTC = R$ 585541.00  
+> 🌦️ Florianópolis: 22.4ºC, Wind: 13.3km/h  
+> 🛠️ Status: Compiling code and existential crises ☕🤯
 <!-- END_STATUS -->
 
 ---
