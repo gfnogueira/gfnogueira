@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.56  
-> 💶 1 EUR = R$ 6.49  
-> ₿ 1 BTC = R$ 675906.00  
-> 🌦️ Florianópolis: 14.8ºC, Wind: 5.8km/h  
-> 🛠️ Status: My CVE backlog has a CVE 💥📄
+> 💵 1 USD = R$ 5.59  
+> 💶 1 EUR = R$ 6.52  
+> ₿ 1 BTC = R$ 650556.00  
+> 🌦️ Florianópolis: 14.8ºC, Wind: 5.4km/h  
+> 🛠️ Status: Exporting logs to /dev/null 📂🗑️
 <!-- END_STATUS -->
 
 ---
