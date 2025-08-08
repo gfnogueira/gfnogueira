@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.46  
-> 💶 1 EUR = R$ 6.36  
-> ₿ 1 BTC = R$ 638723.00  
-> 🌦️ Florianópolis: 15.6ºC, Wind: 5.8km/h  
-> 🛠️ Status: RBAC: Really Broken Access Control 😶‍🌫️
+> 💵 1 USD = R$ 5.43  
+> 💶 1 EUR = R$ 6.33  
+> ₿ 1 BTC = R$ 635271.00  
+> 🌦️ Florianópolis: 14.9ºC, Wind: 8.0km/h  
+> 🛠️ Status: Rolling back... gracefully-ish 🔁
 <!-- END_STATUS -->
 
 ---
