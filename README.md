@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.42  
-> 💶 1 EUR = R$ 6.31  
-> ₿ 1 BTC = R$ 598151.00  
-> 🌦️ Florianópolis: 18.1ºC, Wind: 4.3km/h  
-> 🛠️ Status: YAML sacrificed, deployment successful 🐐📜
+> 💵 1 USD = R$ 5.43  
+> 💶 1 EUR = R$ 6.34  
+> ₿ 1 BTC = R$ 592364.00  
+> 🌦️ Florianópolis: 18.1ºC, Wind: 2.7km/h  
+> 🛠️ Status: Fixing YAML indentation… again 😤
 <!-- END_STATUS -->
 
 ---
