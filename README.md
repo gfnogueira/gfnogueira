@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.35  
-> 💶 1 EUR = R$ 6.27  
-> ₿ 1 BTC = R$ 599552.00  
-> 🌦️ Florianópolis: 21.1ºC, Wind: 6.6km/h  
-> 🛠️ Status: Downtime is just an unplanned maintenance window 🛠️🕳️
+> 💵 1 USD = R$ 5.34  
+> 💶 1 EUR = R$ 6.26  
+> ₿ 1 BTC = R$ 600994.00  
+> 🌦️ Florianópolis: 20.9ºC, Wind: 8.7km/h  
+> 🛠️ Status: Exporting logs to /dev/null 📂🗑️
 <!-- END_STATUS -->
 
 ---
