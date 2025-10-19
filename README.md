@@ -28,8 +28,8 @@
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.40  
 > 💶 1 EUR = R$ 6.29  
-> ₿ 1 BTC = R$ 580916.00  
-> 🌦️ Florianópolis: 21.4ºC, Wind: 5.4km/h  
+> ₿ 1 BTC = R$ 587008.00  
+> 🌦️ Florianópolis: 17.6ºC, Wind: 14.8km/h  
 > 🛠️ Status: Uptime is just borrowed luck ⏱️🍀
 <!-- END_STATUS -->
 
