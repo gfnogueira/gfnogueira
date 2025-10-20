@@ -28,9 +28,9 @@
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.40  
 > 💶 1 EUR = R$ 6.29  
-> ₿ 1 BTC = R$ 587008.00  
-> 🌦️ Florianópolis: 17.6ºC, Wind: 14.8km/h  
-> 🛠️ Status: Uptime is just borrowed luck ⏱️🍀
+> ₿ 1 BTC = R$ 600729.00  
+> 🌦️ Florianópolis: 16.6ºC, Wind: 9.4km/h  
+> 🛠️ Status: Downtime is just an unplanned maintenance window 🛠️🕳️
 <!-- END_STATUS -->
 
 ---
