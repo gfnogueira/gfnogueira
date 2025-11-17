@@ -27,10 +27,10 @@
 
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.30  
-> 💶 1 EUR = R$ 6.13  
-> ₿ 1 BTC = R$ 510114.00  
-> 🌦️ Florianópolis: 23.8ºC, Wind: 13.8km/h  
-> 🛠️ Status: No pager? No peace. 🔔🧘‍♀️
+> 💶 1 EUR = R$ 6.14  
+> ₿ 1 BTC = R$ 508809.00  
+> 🌦️ Florianópolis: 20.5ºC, Wind: 9.2km/h  
+> 🛠️ Status: Fixing YAML indentation… again 😤
 <!-- END_STATUS -->
 
 ---
