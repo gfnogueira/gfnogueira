@@ -29,8 +29,8 @@
 > 💵 1 USD = R$ N/A  
 > 💶 1 EUR = R$ N/A  
 > ₿ 1 BTC = R$ N/A  
-> 🌦️ Florianópolis: 23.4ºC, Wind: 7.4km/h  
-> 🛠️ Status: My kubelet brings all the pods to the yard 🚜📦
+> 🌦️ Florianópolis: 25.0ºC, Wind: 5.9km/h  
+> 🛠️ Status: Uptime is just borrowed luck ⏱️🍀
 <!-- END_STATUS -->
 
 ---
