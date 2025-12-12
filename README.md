@@ -29,8 +29,8 @@
 > 💵 1 USD = R$ N/A  
 > 💶 1 EUR = R$ N/A  
 > ₿ 1 BTC = R$ N/A  
-> 🌦️ Florianópolis: 25.0ºC, Wind: 5.9km/h  
-> 🛠️ Status: Uptime is just borrowed luck ⏱️🍀
+> 🌦️ Florianópolis: 28.8ºC, Wind: 11.1km/h  
+> 🛠️ Status: Yes, it's always DNS. Except when it's YAML.
 <!-- END_STATUS -->
 
 ---
