@@ -29,8 +29,8 @@
 > 💵 1 USD = R$ N/A  
 > 💶 1 EUR = R$ N/A  
 > ₿ 1 BTC = R$ N/A  
-> 🌦️ Florianópolis: 28.8ºC, Wind: 11.1km/h  
-> 🛠️ Status: Yes, it's always DNS. Except when it's YAML.
+> 🌦️ Florianópolis: 24.2ºC, Wind: 4.1km/h  
+> 🛠️ Status: This status approved by 0 reviewers 🫡
 <!-- END_STATUS -->
 
 ---
