@@ -29,8 +29,8 @@
 > 💵 1 USD = R$ N/A  
 > 💶 1 EUR = R$ N/A  
 > ₿ 1 BTC = R$ N/A  
-> 🌦️ Florianópolis: 24.2ºC, Wind: 4.1km/h  
-> 🛠️ Status: This status approved by 0 reviewers 🫡
+> 🌦️ Florianópolis: 24.4ºC, Wind: 0.5km/h  
+> 🛠️ Status: RBAC: Really Broken Access Control 😶‍🌫️
 <!-- END_STATUS -->
 
 ---
