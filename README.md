@@ -27,10 +27,10 @@
 
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.52  
-> 💶 1 EUR = R$ 6.51  
-> ₿ 1 BTC = R$ 491514.00  
-> 🌦️ Florianópolis: 27.7ºC, Wind: 3.6km/h  
-> 🛠️ Status: MFA fatigue is real… 💤🔐
+> 💶 1 EUR = R$ 6.50  
+> ₿ 1 BTC = R$ 484994.00  
+> 🌦️ Florianópolis: 27.5ºC, Wind: 7.6km/h  
+> 🛠️ Status: If it’s in the logs, it never happened 📜❌
 <!-- END_STATUS -->
 
 ---
