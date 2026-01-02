@@ -28,9 +28,9 @@
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.48  
 > 💶 1 EUR = R$ 6.43  
-> ₿ 1 BTC = R$ 484261.00  
-> 🌦️ Florianópolis: 26.5ºC, Wind: 3.7km/h  
-> 🛠️ Status: Someone pushed to main — it’s a trap! 🚨🕵️
+> ₿ 1 BTC = R$ 494489.00  
+> 🌦️ Florianópolis: 27.2ºC, Wind: 1.5km/h  
+> 🛠️ Status: Yes, it's always DNS. Except when it's YAML.
 <!-- END_STATUS -->
 
 ---
