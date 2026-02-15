@@ -28,9 +28,9 @@
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.22  
 > 💶 1 EUR = R$ 6.19  
-> ₿ 1 BTC = R$ 366970.00  
-> 🌦️ Florianópolis: 23.7ºC, Wind: 2.1km/h  
-> 🛠️ Status: Prometheus alert: sanity level < 5% 📉
+> ₿ 1 BTC = R$ 367153.00  
+> 🌦️ Florianópolis: 22.8ºC, Wind: 2.3km/h  
+> 🛠️ Status: My CVE backlog has a CVE 💥📄
 <!-- END_STATUS -->
 
 ---
