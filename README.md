@@ -27,10 +27,10 @@
 
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.22  
-> 💶 1 EUR = R$ 6.18  
-> ₿ 1 BTC = R$ 352361.00  
-> 🌦️ Florianópolis: 26.4ºC, Wind: 7.2km/h  
-> 🛠️ Status: Onboarding docs last updated: never 📜🕸️
+> 💶 1 EUR = R$ 6.17  
+> ₿ 1 BTC = R$ 349537.00  
+> 🌦️ Florianópolis: 25.0ºC, Wind: 1.5km/h  
+> 🛠️ Status: Today’s incident brought to you by: me 🙋‍♂️
 <!-- END_STATUS -->
 
 ---
