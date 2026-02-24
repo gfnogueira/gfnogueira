@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.20  
-> 💶 1 EUR = R$ 6.14  
-> ₿ 1 BTC = R$ 342487.00  
-> 🌦️ Florianópolis: 24.0ºC, Wind: 4.5km/h  
-> 🛠️ Status: Brew first, debug later 🔍☕
+> 💵 1 USD = R$ 5.18  
+> 💶 1 EUR = R$ 6.10  
+> ₿ 1 BTC = R$ 327256.00  
+> 🌦️ Florianópolis: 25.2ºC, Wind: 3.6km/h  
+> 🛠️ Status: CI pipeline broke? Must be Tuesday 🛠️
 <!-- END_STATUS -->
 
 ---
