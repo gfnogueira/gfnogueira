@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.25  
-> 💶 1 EUR = R$ 6.01  
-> ₿ 1 BTC = R$ N/A  
-> 🌦️ Florianópolis: 24.7ºC, Wind: 5.8km/h  
-> 🛠️ Status: Prometheus alert: sanity level < 5% 📉
+> 💵 1 USD = R$ 5.27  
+> 💶 1 EUR = R$ 6.02  
+> ₿ 1 BTC = R$ 391951.00  
+> 🌦️ Florianópolis: 26.3ºC, Wind: 4.8km/h  
+> 🛠️ Status: Beer me before I kubectl delete 🍻📦
 <!-- END_STATUS -->
 
 ---
