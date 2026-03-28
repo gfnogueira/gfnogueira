@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.23  
+> 💵 1 USD = R$ 5.24  
 > 💶 1 EUR = R$ 6.04  
-> ₿ 1 BTC = R$ 349435.00  
-> 🌦️ Florianópolis: 26.9ºC, Wind: 3.8km/h  
-> 🛠️ Status: RBAC: Really Broken Access Control 😶‍🌫️
+> ₿ 1 BTC = R$ 348225.00  
+> 🌦️ Florianópolis: 26.5ºC, Wind: 7.5km/h  
+> 🛠️ Status: Yes, it's always DNS. Except when it's YAML.
 <!-- END_STATUS -->
 
 ---
