@@ -28,9 +28,9 @@
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.24  
 > 💶 1 EUR = R$ 6.04  
-> ₿ 1 BTC = R$ 348225.00  
-> 🌦️ Florianópolis: 26.5ºC, Wind: 7.5km/h  
-> 🛠️ Status: Yes, it's always DNS. Except when it's YAML.
+> ₿ 1 BTC = R$ 351027.00  
+> 🌦️ Florianópolis: 25.5ºC, Wind: 5.9km/h  
+> 🛠️ Status: Running `kubectl describe mystery` 🧙‍♂️
 <!-- END_STATUS -->
 
 ---
