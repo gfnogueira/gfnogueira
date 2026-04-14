@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.02  
-> 💶 1 EUR = R$ 5.86  
-> ₿ 1 BTC = R$ 357585.00  
-> 🌦️ Florianópolis: 23.5ºC, Wind: 4.3km/h  
-> 🛠️ Status: Secrets in Git? What secrets? 🤫🔓
+> 💵 1 USD = R$ 5.01  
+> 💶 1 EUR = R$ 5.88  
+> ₿ 1 BTC = R$ 371639.00  
+> 🌦️ Florianópolis: 23.2ºC, Wind: 4.2km/h  
+> 🛠️ Status: Scaling infra… hold my beer 🍺
 <!-- END_STATUS -->
 
 ---
