@@ -27,10 +27,10 @@
 
 > 💬 "Stay calm and grep logs."  
 > 💵 1 USD = R$ 5.01  
-> 💶 1 EUR = R$ 5.81  
-> ₿ 1 BTC = R$ 387943.00  
-> 🌦️ Florianópolis: 16.7ºC, Wind: 7.9km/h  
-> 🛠️ Status: RBAC: Really Broken Access Control 😶‍🌫️
+> 💶 1 EUR = R$ 5.82  
+> ₿ 1 BTC = R$ 376701.00  
+> 🌦️ Florianópolis: 16.3ºC, Wind: 2.2km/h  
+> 🛠️ Status: Misconfigured firewall or feature? You decide 🔥🧱
 <!-- END_STATUS -->
 
 ---
