@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.18  
-> 💶 1 EUR = R$ 5.97  
-> ₿ 1 BTC = R$ 323290.00  
-> 🌦️ Florianópolis: 20.0ºC, Wind: 4.9km/h  
-> 🛠️ Status: MFA fatigue is real… 💤🔐
+> 💵 1 USD = R$ 5.17  
+> 💶 1 EUR = R$ 5.98  
+> ₿ 1 BTC = R$ 321256.00  
+> 🌦️ Florianópolis: 18.2ºC, Wind: 1.8km/h  
+> 🛠️ Status: Threat modeling with vibes only 🧘‍♂️🔒
 <!-- END_STATUS -->
 
 ---
