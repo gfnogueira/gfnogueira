@@ -26,11 +26,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.18  
-> 💶 1 EUR = R$ 5.97  
-> ₿ 1 BTC = R$ 324715.00  
-> 🌦️ Florianópolis: 19.3ºC, Wind: 3.6km/h  
-> 🛠️ Status: I have trust issues. Thanks, CI pipeline 😑
+> 💵 1 USD = R$ 5.16  
+> 💶 1 EUR = R$ 5.96  
+> ₿ 1 BTC = R$ 322832.00  
+> 🌦️ Florianópolis: 19.3ºC, Wind: 24.4km/h  
+> 🛠️ Status: On-call, on-coffee, on-edge ☕📞😅
 <!-- END_STATUS -->
 
 ---
