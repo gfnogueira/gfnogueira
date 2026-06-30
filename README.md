@@ -17,6 +17,7 @@
 
 🔧 DevOps | SRE | Cloud Engineer  
 ☁️ AWS & Azure enthusiast  
+🎲 Data Reliability Engineer (DRE), keeping data pipelines as reliable as the infra  
 📡 Networking & VoIP veteran (yes, I survived Asterisk configs 😅)  
 ☕ Coffee lover, 🍺 craft beer explorer  
 
@@ -40,7 +41,9 @@
 I'm that kind of engineer who enjoys solving problems before they even happen.  
 After years in the networking and telecom world (Fortinet, Palo Alto, VoIP with Asterisk, all that jazz), I jumped deep into Cloud and DevOps.
 
-Now I spend my days building infrastructure as code, scaling things up (or down, when the bill hits), and making sure everything is monitored and automated — all while sipping some good coffee.
+Now I spend my days building infrastructure as code, scaling things up (or down, when the bill hits), and making sure everything is monitored and automated.   
+These days I'm also wearing the DRE hat, treating data pipelines like production infra: tested, observable and reliable (Spark, Airflow, dbt and friends).
+All while sipping some good coffee.
 
 ---
 
@@ -85,6 +88,33 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 ---
 
+### 🔁 CI/CD Tools
+
+[![Jenkins](https://img.shields.io/badge/CI_Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-EB4C60?logo=argo)](https://argo-cd.readthedocs.io)
+
+[![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions)](https://github.com/features/actions)
+[![GitLab Runners](https://img.shields.io/badge/CI-GitLab_Runner-FC6D26?logo=gitlab)](https://docs.gitlab.com/runner/)
+[![Bitbucket Pipelines](https://img.shields.io/badge/CI-Bitbucket_Runners-0052CC?logo=bitbucket)](https://bitbucket.org/product/features/pipelines)
+
+[![Atlantis](https://img.shields.io/badge/IaC-Atlantis-6baffe?logo=terraform)](https://www.runatlantis.io)
+[![Artifactory](https://img.shields.io/badge/Packages-Artifactory-528B8B?logo=jfrog)](https://jfrog.com/artifactory)
+
+---
+
+### 🎲 Data Infra & Reliability (DRE)
+
+[![Spark](https://img.shields.io/badge/Engine-Apache_Spark-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org)
+[![Hive](https://img.shields.io/badge/Warehouse-Apache_Hive-FDEE21?logo=apachehive&logoColor=black)](https://hive.apache.org)
+[![Snowflake](https://img.shields.io/badge/Warehouse-Snowflake-29B5E8?logo=snowflake&logoColor=white)](https://www.snowflake.com)
+[![Databricks](https://img.shields.io/badge/Lakehouse-Databricks-FF3621?logo=databricks&logoColor=white)](https://www.databricks.com)
+
+[![Airflow](https://img.shields.io/badge/Orchestration-Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)](https://airflow.apache.org)
+[![dbt](https://img.shields.io/badge/Transform-dbt-FF694B?logo=dbt&logoColor=white)](https://www.getdbt.com)
+[![Elementary](https://img.shields.io/badge/Data_Observability-Elementary-7B61FF)](https://www.elementary-data.com)
+
+---
+
 ### 🔍 Monitoring & Observability
 
 [![Datadog](https://img.shields.io/badge/Monitoring-Datadog-purple?logo=datadog)](https://www.datadoghq.com)
@@ -97,6 +127,8 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 [![ELK Stack](https://img.shields.io/badge/Logs-ELK-005571?logo=elastic)](https://www.elastic.co/what-is/elk-stack)
 [![OpenTelemetry](https://img.shields.io/badge/Observability-OpenTelemetry-7F52FF?logo=opentelemetry)](https://opentelemetry.io)
+
+[![Observe](https://img.shields.io/badge/Observability-Observe-FF2D7E)](https://www.observeinc.com)
 
 ---
 
@@ -113,20 +145,6 @@ Now I spend my days building infrastructure as code, scaling things up (or down,
 
 [![Asterisk](https://img.shields.io/badge/VoIP-Asterisk-orange?logo=asterisk)](https://www.asterisk.org/)
 [![FreeSWITCH](https://img.shields.io/badge/VoIP-FreeSWITCH-054F9A?logo=wikiquote)](https://freeswitch.com)
-
----
-
-### 🔁 CI/CD Tools
-
-[![Jenkins](https://img.shields.io/badge/CI_Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io)
-[![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-EB4C60?logo=argo)](https://argo-cd.readthedocs.io)
-
-[![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions)](https://github.com/features/actions)
-[![GitLab Runners](https://img.shields.io/badge/CI-GitLab_Runner-FC6D26?logo=gitlab)](https://docs.gitlab.com/runner/)
-[![Bitbucket Pipelines](https://img.shields.io/badge/CI-Bitbucket_Runners-0052CC?logo=bitbucket)](https://bitbucket.org/product/features/pipelines)
-
-[![Atlantis](https://img.shields.io/badge/IaC-Atlantis-6baffe?logo=terraform)](https://www.runatlantis.io)
-[![Artifactory](https://img.shields.io/badge/Packages-Artifactory-528B8B?logo=jfrog)](https://jfrog.com/artifactory)
 
 ---
 
@@ -167,6 +185,8 @@ $ cat laws_of_infra.txt
 #3: 🌀 YAML never forgets - Every YAML file has a little chaos hidden inside.  
 
 #4: ☕ Read your logs like you read fortunes — slowly, and with caffeine.
+
+#5: 🎲 A pipeline with no tests is just a cron job running on hope.
 ```
 
 
@@ -174,9 +194,9 @@ $ cat laws_of_infra.txt
 
 ## 🧭 From CLI to Cloud
 
-🔌 Networking & VoIP → 🛠️ Infra as Code → ☁️ Cloud Native → 🧠 SRE/DevOps
+🔌 Networking & VoIP → 🛠️ Infra as Code → ☁️ Cloud Native → 🧠 SRE/DevOps → 🎲 Data/DRE
 
-Progress: [■■■■■■■□□□] 70%  
+Progress: [■■■■■■■■□□] 80%  
 *Updates available. Please brew more coffee.*
 
 ---
@@ -185,8 +205,7 @@ Progress: [■■■■■■■□□□] 70%
 
 If you're into DevOps, cloud stuff, or just want to talk about coffee or beer, hit me up:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nogueira-blue?logo=linkedin)](https://linkedin.com/in/gfnogueira)  
-[![Telegram](https://img.shields.io/badge/Telegram-@nogueira-blue?logo=telegram)](https://t.me/gfnogueira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nogueira-blue?logo=linkedin)](https://linkedin.com/in/gfnogueira)
 
 ---
 ```
