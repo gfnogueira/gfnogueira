@@ -27,11 +27,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.08  
-> 💶 1 EUR = R$ 5.82  
-> ₿ 1 BTC = R$ 323506.00  
-> 🌦️ Florianópolis: 14.8ºC, Wind: 6.8km/h  
-> 🛠️ Status: Currently running on caffeine and hope 💻☕
+> 💵 1 USD = R$ 5.10  
+> 💶 1 EUR = R$ 5.83  
+> ₿ 1 BTC = R$ 328048.00  
+> 🌦️ Florianópolis: 17.0ºC, Wind: 15.4km/h  
+> 🛠️ Status: The metrics are fine. I’m not. 📉🫠
 <!-- END_STATUS -->
 
 ---
