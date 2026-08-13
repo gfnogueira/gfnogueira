@@ -27,11 +27,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.12  
-> 💶 1 EUR = R$ 5.91  
-> ₿ 1 BTC = R$ 331014.00  
-> 🌦️ Florianópolis: 14.3ºC, Wind: 6.1km/h  
-> 🛠️ Status: Container escape attempts: blocked (for now) 🐳🚷
+> 💵 1 USD = R$ 5.16  
+> 💶 1 EUR = R$ 5.95  
+> ₿ 1 BTC = R$ 328819.00  
+> 🌦️ Florianópolis: 16.1ºC, Wind: 3.4km/h  
+> 🛠️ Status: Beer me before I kubectl delete 🍻📦
 <!-- END_STATUS -->
 
 ---
