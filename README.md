@@ -27,11 +27,11 @@
 ## ☁️ Today's Status
 
 > 💬 "Stay calm and grep logs."  
-> 💵 1 USD = R$ 5.13  
-> 💶 1 EUR = R$ 5.89  
-> ₿ 1 BTC = R$ 441230.00  
-> 🌦️ Florianópolis: 17.3ºC, Wind: 27.8km/h  
-> 🛠️ Status: Running pentests… on my patience 🧪😤
+> 💵 1 USD = R$ 5.11  
+> 💶 1 EUR = R$ 5.85  
+> ₿ 1 BTC = R$ 435391.00  
+> 🌦️ Florianópolis: 15.3ºC, Wind: 14.9km/h  
+> 🛠️ Status: Yes, it's always DNS. Except when it's YAML.
 <!-- END_STATUS -->
 
 ---
